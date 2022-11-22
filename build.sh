@@ -1,0 +1,1 @@
+npm run build && docker build -t katonic/mlops-app-store:$1 . && docker push katonic/mlops-app-store:$1

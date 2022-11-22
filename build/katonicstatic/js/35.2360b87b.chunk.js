@@ -1,0 +1,2 @@
+(this["webpackJsonpgogo-react"]=this["webpackJsonpgogo-react"]||[]).push([[35],{381:function(e,c,s){"use strict";s.r(c);s(2),s(61),s(66),s(4);var t=s(11);c.default=function(){return Object(t.jsx)(t.Fragment,{children:Object(t.jsx)("main",{children:Object(t.jsxs)("main",{children:[Object(t.jsx)("div",{className:"models-background"}),Object(t.jsx)("div",{className:"upgradeDiv",children:Object(t.jsx)("p",{children:"Upgrade to access these features!"})})]})})})}}}]);
+//# sourceMappingURL=35.2360b87b.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpgogo-react"]=this["webpackJsonpgogo-react"]||[]).push([[36],{376:function(e,c,s){"use strict";s.r(c);s(2),s(57),s(64),s(4);var t=s(11);c.default=function(){return Object(t.jsx)(t.Fragment,{children:Object(t.jsxs)("main",{children:[Object(t.jsx)("div",{className:"free-background"}),Object(t.jsx)("div",{className:"upgradeDiv",children:Object(t.jsx)("p",{children:"Upgrade to access these features!"})})]})})}}}]);
+//# sourceMappingURL=36.d5b9ae33.chunk.js.map

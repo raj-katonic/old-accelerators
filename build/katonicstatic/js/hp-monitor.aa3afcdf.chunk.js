@@ -1,0 +1,2 @@
+(this["webpackJsonpgogo-react"]=this["webpackJsonpgogo-react"]||[]).push([[5],{375:function(e,t,i){"use strict";i.r(t);i(2);var r=i(11);t.default=function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("iframe",{style:{height:"73vh",width:"100%",border:"none"},src:"/pipeline/#/pipelines",title:"pipelines",frameBorder:"0"})})}}}]);
+//# sourceMappingURL=hp-monitor.aa3afcdf.chunk.js.map
